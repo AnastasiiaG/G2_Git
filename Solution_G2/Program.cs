@@ -22,6 +22,7 @@ namespace Solution_G2
             // Console.WriteLine(childClass.childInt);
 
             childClass.TestMethod();
+            Console.WriteLine("Change in test brance");
             Console.ReadKey();
 
         }
